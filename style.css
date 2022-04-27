@@ -8,3 +8,15 @@ h2 {
   font-weight: bold;
   color: blue;
 }
+
+ul {
+  list-style-type: none;
+}
+
+.codeschar {
+  background-color: lightgray;
+}
+
+.charcodes {
+  background-color: lightyellow;
+}
